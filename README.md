@@ -21,4 +21,4 @@ Please see below for instructions on how to generate synthetic data, training, a
     6. Python code to label training data
     
 - Train and evaluate model
-    Python notebook to train and evaluate model
+    - Python notebook to train and evaluate model
