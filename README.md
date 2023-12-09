@@ -18,4 +18,4 @@ Please see below for instructions on how to generate synthetic data, training, a
     6. Python code to label training data
     
 - Train and evaluate model
-    4. Python code to evaluate model
+    Python notebook to train and evaluate model
